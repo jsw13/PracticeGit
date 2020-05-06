@@ -5,7 +5,6 @@ function addNum(x,y) {
 }
 
 function subtractNum(x,y) {
-    return(x -y)
     return(x - y)
 }
 
