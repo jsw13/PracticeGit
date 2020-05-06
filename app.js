@@ -6,6 +6,11 @@ function addNum(x,y) {
 
 function subtractNum(x,y) {
     return(x -y)
+    return(x - y)
+}
+
+function multiplyNum(x,y) {
+    return(x * y)
 }
 
 console.log(addNum(1,2))
