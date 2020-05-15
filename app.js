@@ -13,4 +13,8 @@ function multiplyNum(x,y) {
 }
 
 console.log(addNum(1,2))
-console.log(subtract(10,9))
+console.log(subtractNum(10,9))
+
+module.exports = {
+    addNum
+}
