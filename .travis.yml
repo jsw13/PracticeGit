@@ -2,3 +2,7 @@ os: windows
 language: node_js
 node_js:
 -"stable"
+install: 
+-npm install
+-npm install mocha
+script: npm test
