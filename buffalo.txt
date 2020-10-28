@@ -1,0 +1,17 @@
+This is buffalo.
+There is no text in buffalo.
+Buffalo is written in vim.
+Can we use a different editor?
+
+How to write code in vim.
+
+
+let git = "git"
+
+if (git == "git") {
+    git += "git"
+}
+
+console.log(git)
+
+wait, this is a text file.
