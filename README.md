@@ -1,4 +1,2 @@
-# TestGit
-
-Making some changes to the file.
-Delete one line and add two lines.
+This is the new README.
+There is nothing here.
